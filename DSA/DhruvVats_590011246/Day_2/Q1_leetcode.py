@@ -8,3 +8,4 @@ class Solution(object):
                 k += 1
 
         return k
+# Day 2 submission

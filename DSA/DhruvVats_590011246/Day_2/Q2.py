@@ -7,3 +7,4 @@ for num in arr:
         largest = num
 
 print("Largest element is:", largest)
+# Day 2 submission
