@@ -7,5 +7,6 @@ class Solution(object):
                 num = i       
         return num
 nums = [3, 0, 1]
-obj = Solution()
+obj = Solution() 
+
 print(obj.missingNumber(nums))

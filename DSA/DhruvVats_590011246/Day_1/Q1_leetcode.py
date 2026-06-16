@@ -6,5 +6,5 @@ class Solution(object):
         return total
 nums = [12, 35, 1, 10, 34, 1]
 obj = Solution()
-print(obj.sumArray(nums))
+print(obj.sumArray(nums)) 
 # Day 1 submission
