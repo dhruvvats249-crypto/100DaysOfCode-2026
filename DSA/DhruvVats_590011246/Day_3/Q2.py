@@ -42,3 +42,4 @@ class Solution:
         last = last_occurrence()
 
         return last - first + 1
+# Day 3 solution
