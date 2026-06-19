@@ -18,3 +18,4 @@ class Solution:
                 del freq[num]
 
         return len(freq) == 0
+#Day 5 solution
